@@ -1,6 +1,8 @@
 bootstrap-template
 
 generic-page-wireframe
+    html
+    css
 sticky-footer-wireframe
 
 index-wireframe-desktop
