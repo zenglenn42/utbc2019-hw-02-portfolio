@@ -1,1 +1,14 @@
 /* my styles go here */
+
+header {
+  background-color: white;
+}
+
+main {
+  background-color: gray;
+}
+
+footer {
+  background-color: black;
+  color: white;
+}
