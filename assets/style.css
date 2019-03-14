@@ -76,6 +76,30 @@ main {
   flex: 1;
 }
 
+main div.container {
+  margin-top: 2em;
+  background-color: white;
+  padding: 1em 1em;
+}
+
+main hr {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+body > main > div > p:nth-child(1) {
+  font-family: times;
+  color: teal;
+  font-size: 1.25rem;
+}
+
+main p.row {
+  padding: inherit;
+  margin-bottom: 0;
+  color: gray;
+  font-size: 0.9em;
+}
+
 footer {
   background-color: #555;
   border-top-style: solid;
