@@ -95,6 +95,12 @@ main hr {
   margin-bottom: 0;
 }
 
+body > main > div.container::after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
 body > main > div > p:nth-child(1) {
   font-family: times;
   color: teal;
@@ -118,6 +124,9 @@ body > main > div > p:nth-child(3) > img {
   height: 50%;
   margin: 2.5%;
   margin-left: 0;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  float: left;
 }
 
 main p.about-me {
