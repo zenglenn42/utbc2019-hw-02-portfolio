@@ -4,12 +4,15 @@ body {
   display: flex;
   flex-flow: column;
   min-height: 100vh;
+  border: 1px solid black;
+  border-top-width: 2px;
+  background-color: #aaa;
 }
 
 header {
   background-color: white;
-  border: 1px solid black;
-  border-top-width: 2px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
   border-bottom-color: #bbb;
 }
 
