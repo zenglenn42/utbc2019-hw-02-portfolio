@@ -98,6 +98,7 @@ main p.row {
   margin-bottom: 0;
   color: gray;
   font-size: 0.9em;
+  padding-top: 0;
 }
 
 footer {
