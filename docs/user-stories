@@ -1,9 +1,9 @@
-bootstrap-template
+x bootstrap-template
 
-generic-page-wireframe
-    html
-    css
-sticky-footer-wireframe
+x generic-page-wireframe
+    x html
+    x css
+x sticky-footer-wireframe
 
 x navbar-wireframe-desktop
 x navbar-wireframe-tablet
