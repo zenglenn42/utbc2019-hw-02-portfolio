@@ -21,6 +21,11 @@ header {
   padding: 0 0;
 }
 
+div#nav-container {
+  padding-left: 0;
+  padding-right: 0;
+}
+
 a.navbar-brand {
   background-color: teal;
   color: white;
