@@ -121,7 +121,7 @@ body > main > div > p:nth-child(3) > img {
 }
 
 main p.about-me {
-  color: red;
+  color: gray;
 }
 
 @media screen and (max-width: 640px) {
