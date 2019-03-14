@@ -113,6 +113,22 @@ main p.row:last-child {
   padding-top: 1em;
 }
 
+body > main > div > p:nth-child(3) > img {
+  width: 50%;
+  height: 50%;
+  margin: 2.5%;
+  margin-left: 0;
+}
+
+@media screen and (max-width: 640px) {
+  body > main > div > p:nth-child(3) > img {
+    width: 90%;
+    height: 90%;
+    margin: 0 auto;
+    margin-bottom: 1em;
+  }
+}
+
 footer {
   background-color: #555;
   border-top-style: solid;
