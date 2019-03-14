@@ -5,8 +5,8 @@ generic-page-wireframe
     css
 sticky-footer-wireframe
 
-navbar-wireframe-desktop
-navbar-wireframe-tablet
+x navbar-wireframe-desktop
+x navbar-wireframe-tablet
 navbar-wireframe-phone
 
 index-wireframe-desktop
@@ -21,8 +21,8 @@ contact-wireframe-desktop
 contact-wireframe-tablet
 contact-wireframe-phone
 
-navbar-desktop
-navbar-tablet
+x navbar-desktop
+x navbar-tablet
 navbar-phone
 
 about-me-desktop

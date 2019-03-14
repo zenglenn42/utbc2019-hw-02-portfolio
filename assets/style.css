@@ -8,14 +8,34 @@ body {
 
 header {
   background-color: white;
+  border: 1px solid black;
+  border-top-width: 2px;
+  border-bottom-color: #bbb;
+}
+
+.navbar-fixed-top {
+  padding: 0 0;
+}
+
+a.navbar-brand {
+  background-color: teal;
+  color: white;
+  font-family: times;
+  padding: 0.7em 1em;
+}
+
+a.navbar-link {
+  color: gray;
+  font-size: 0.9em;
+  padding: 0 0.5em;
 }
 
 main {
-  background-color: gray;
+  background-color: #ddd;
   flex: 1;
 }
 
 footer {
-  background-color: black;
+  background-color: #555;
   color: white;
 }
