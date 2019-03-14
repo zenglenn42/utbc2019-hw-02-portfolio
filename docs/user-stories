@@ -12,21 +12,13 @@ x navbar-desktop
 x navbar-tablet
 x navbar-phone
 
-index-wireframe-desktop
-index-wireframe-tablet
-index-wireframe-phone
-
-about-me-wireframe-desktop
-about-me-wireframe-tablet
-about-me-wireframe-phone
+x about-me-desktop
+x about-me-tablet
+x about-me-phone
 
 contact-wireframe-desktop
 contact-wireframe-tablet
 contact-wireframe-phone
-
-about-me-desktop
-about-me-tablet
-about-me-phone
 
 portfolio item
 portfolio-desktop
