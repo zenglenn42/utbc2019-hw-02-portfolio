@@ -7,7 +7,10 @@ x sticky-footer-wireframe
 
 x navbar-wireframe-desktop
 x navbar-wireframe-tablet
-navbar-wireframe-phone
+x navbar-wireframe-phone
+x navbar-desktop
+x navbar-tablet
+x navbar-phone
 
 index-wireframe-desktop
 index-wireframe-tablet
@@ -20,10 +23,6 @@ about-me-wireframe-phone
 contact-wireframe-desktop
 contact-wireframe-tablet
 contact-wireframe-phone
-
-x navbar-desktop
-x navbar-tablet
-navbar-phone
 
 about-me-desktop
 about-me-tablet
