@@ -109,6 +109,10 @@ main p.row {
   padding-top: 0;
 }
 
+main p.row:last-child {
+  padding-top: 1em;
+}
+
 footer {
   background-color: #555;
   border-top-style: solid;
