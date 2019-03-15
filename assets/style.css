@@ -82,10 +82,9 @@ main div.container {
   padding: 1em 1em;
 }
 
-/* Provide a tad of margin on phones. */
-
 @media screen and (max-width: 640px) {
   main div.container {
+    /* Provide a tad of margin on phones. */
     max-width: 95%;
   }
 }
@@ -95,49 +94,35 @@ main hr {
   margin-bottom: 0;
 }
 
-body > main > div.container::after {
-  content: " ";
-  display: block;
-  clear: both;
-}
-
-body > main > div > p:nth-child(1) {
-  font-family: times;
+main p#about-me-label {
   color: teal;
+  font-family: times;
   font-size: 1.25rem;
-}
-
-main p.row {
-  padding: inherit;
   margin-bottom: 0;
-  color: gray;
-  font-size: 0.9em;
+  padding: inherit;
   padding-top: 0;
 }
 
-main p.row:last-child {
-  padding-top: 1em;
+main p.about-me {
+  color: gray;
+  font-size: 0.9em;
 }
 
-body > main > div > p:nth-child(3) > img {
-  width: 50%;
+main img.about-me {
+  float: left;
   height: 50%;
   margin: 2.5%;
   margin-left: 0;
   margin-top: 1.5em;
   margin-bottom: 0.5em;
-  float: left;
-}
-
-main p.about-me {
-  color: gray;
+  width: 50%;
 }
 
 @media screen and (max-width: 640px) {
-  body > main > div > p:nth-child(3) > img {
-    width: 100%;
+  main img.about-me {
     height: 100%;
     margin: 1em auto;
+    width: 100%;
   }
 }
 
