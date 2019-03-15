@@ -116,6 +116,13 @@ main p#main-content {
   font-size: 0.9em;
 }
 
+@media screen and (max-width: 640px) {
+  main p#main-content {
+    color: red; /* DEBUGGING! */
+    background-color: #aaa;
+  }
+}
+
 main img.about-me {
   float: left;
   height: 50%;
