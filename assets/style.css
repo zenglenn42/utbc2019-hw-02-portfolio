@@ -76,7 +76,7 @@ main {
   flex: 1;
 }
 
-main div.container {
+main div#about-me-container {
   margin-top: 2em;
   background-color: white;
   padding: 1em 1em;
@@ -84,14 +84,14 @@ main div.container {
 
 /* About Me image spills outside container otherwise. */
 
-main div.container::after {
+main div#about-me-container::after {
   content: " ";
   display: block;
   clear: both;
 }
 
 @media screen and (max-width: 640px) {
-  main div.container {
+  main div#about-me-container {
     /* Provide a tad of margin on phones. */
     max-width: 95%;
   }
