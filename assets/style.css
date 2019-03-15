@@ -116,6 +116,12 @@ main p.about-me {
   font-size: 0.9em;
 }
 
+@media screen and (max-width: 640px) {
+  main p.about-me {
+    margin-bottom: 0;
+  }
+}
+
 main img.about-me {
   float: left;
   height: 50%;
@@ -128,7 +134,6 @@ main img.about-me {
 
 @media screen and (max-width: 640px) {
   main img.about-me {
-    /* height: 100%; */
     margin: 1em auto;
     width: 100%;
   }
