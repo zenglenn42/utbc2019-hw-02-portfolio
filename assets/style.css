@@ -155,6 +155,10 @@ main figcaption.portfolio-caption {
   text-align: center;
 }
 
+main form.contact-form button {
+  background-color: teal;
+}
+
 footer {
   background-color: #555;
   border-top-style: solid;
