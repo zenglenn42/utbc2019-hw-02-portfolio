@@ -116,10 +116,6 @@ main p#main-content {
   font-size: 0.9em;
 }
 
-main #portfolio-items {
-  padding-top: 1em;
-}
-
 main img.about-me {
   float: left;
   height: 50%;
@@ -135,6 +131,10 @@ main img.about-me {
     margin: 1em auto;
     width: 100%;
   }
+}
+
+main #portfolio-items {
+  padding-top: 1em;
 }
 
 main .portfolio-img {
@@ -155,7 +155,7 @@ main figure.portfolio-item {
 @media screen and (max-width: 640px) {
   /* Single column of items on phones. */
   main figure.portfolio-item {
-    margin: 0 170px; /* Ug, death to px. */
+    margin: 0 auto;
     margin-bottom: 1em;
   }
 }
