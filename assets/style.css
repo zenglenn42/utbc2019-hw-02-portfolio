@@ -116,6 +116,10 @@ main p#main-content {
   font-size: 0.9em;
 }
 
+main #portfolio-items {
+  padding-top: 1em;
+}
+
 main img.about-me {
   float: left;
   height: 50%;
