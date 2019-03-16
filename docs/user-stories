@@ -8,6 +8,7 @@ x sticky-footer-wireframe
 x navbar-wireframe-desktop
 x navbar-wireframe-tablet
 x navbar-wireframe-phone
+
 x navbar-desktop
 x navbar-tablet
 x navbar-phone
@@ -16,11 +17,12 @@ x about-me-desktop
 x about-me-tablet
 x about-me-phone
 
-contact-wireframe-desktop
-contact-wireframe-tablet
-contact-wireframe-phone
+x contact-wireframe-desktop
+x contact-wireframe-tablet
+x contact-wireframe-phone
 
-portfolio item
+x portfolio item
+
 portfolio-desktop
 portfolio-tablet
 portfolio-phone

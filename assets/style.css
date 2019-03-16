@@ -133,6 +133,28 @@ main img.about-me {
   }
 }
 
+main .portfolio-img {
+  width: 170px;
+}
+
+main figure.portfolio-item {
+  max-width: 204px;
+  max-width: min-content;
+  margin: auto;
+  padding: 1em;
+  border: 1px solid darkslategray;
+  border-radius: 0.2em;
+  box-shadow: 5px 0 5px -5px black, -5px 0 5px -5px black;
+}
+
+main figcaption.portfolio-caption {
+  background-color: teal;
+  color: white;
+  font-family: times;
+  font-size: 1.15em;
+  text-align: center;
+}
+
 footer {
   background-color: #555;
   border-top-style: solid;
