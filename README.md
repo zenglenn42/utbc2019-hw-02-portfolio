@@ -14,6 +14,10 @@ The full problem assignment can be found [here](https://github.com/the-Coding-Bo
 The hosted solution resides [here](https://zenglenn42.github.io/utbc2019-hw-02-portfolio).
 The 'Contact' page includes an email submission form.  However since we're only dealing with front-end HTML and CSS, the form is not live.
 
+## Attribution
+
+I've borrowed some ideas from Lea Verou's CSS Secrets book for sticky footers and intrinsic sizing of portfolio itms scetched out [here](http://dabblet.com/gist/410e43c60863a8dba193) and [here](http://dabblet.com/gist/82eb1575806f6eff9c37).
+
 ## Emulator Screen-Shots
 
 On phones, the layout looks like this:
