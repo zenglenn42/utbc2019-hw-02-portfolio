@@ -16,7 +16,7 @@ The 'Contact' page includes an email submission form.  However since we're only 
 
 ## Attribution
 
-I've borrowed some ideas from Lea Verou's CSS Secrets book for sticky footers and intrinsic sizing of portfolio itms scetched out [here](http://dabblet.com/gist/410e43c60863a8dba193) and [here](http://dabblet.com/gist/82eb1575806f6eff9c37).
+I've borrowed some ideas from Lea Verou's CSS Secrets book for sticky footers and intrinsic sizing of portfolio items scetched out [here](http://dabblet.com/gist/410e43c60863a8dba193) and [here](http://dabblet.com/gist/82eb1575806f6eff9c37).
 
 ## Emulator Screen-Shots
 
