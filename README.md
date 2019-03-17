@@ -12,6 +12,7 @@ The full problem assignment can be found [here](https://github.com/the-Coding-Bo
 ## Demo Day!
 
 The hosted solution resides [here](https://zenglenn42.github.io/utbc2019-hw-02-portfolio).
+The 'Contact' page includes an email submission form.  However since we're only dealing with front-end HTML and CSS, the form is not live.
 
 ## Emulator Screen-Shots
 
